@@ -1,6 +1,4 @@
-Project by Alexander Sulistyo (sulis008) and Travis Pham (pham0459)
-Alex - Board, King, Rook, Bishop, Pawn Promotion
-Travis - Piece, Game, Kight, Queen
+Project by Alexander Sulistyo (sulis008)
 Navigate to the file location on terminal.
 Enter "javac Game.java"
 Enter "java Game"
